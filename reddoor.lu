@@ -1,0 +1,57 @@
+### ? Hello?
+	- Hi
+	- Greetings
+	- Excuse me
+	'''markdown
+	Hello, I'm a chatbot developed for Red Door Cafe, Coimbatore.
+	'''
+
+### ? Tell me about the cafe?
+	- what's the thing about red door cafe
+	- tell me about red door cafe
+	- I want to know about red door cafe
+	- I want to know about the cafe
+	'''markdown
+	Established in the year 2016, Red Door in Racecourse, Coimbatore is a top player in the category Coffee Shops in the Coimbatore. This well-known established acts as a one-step destination servicing customers both local and from other parts of Coimbatore.
+	'''
+
+### ? Which are the must order dishes at the establishment?
+	- what are the best dishes in the red door cafe
+	- tell me some best dishes to order
+	- any good dishes to eat for sure
+
+	'''markdown
+	When dining at this establishment, you must defenitely order peri peri fries etc.
+	'''
+
+
+### ? What are the various mode of payment accepted here?
+	- How can I pay here?
+	- Do you accept card? 
+	- Can I pay through online payment
+	- Online payment is available over there?
+	'''markdown
+	You can make payment Via cash, Debit Cards, Cheques, Credit-card
+
+### ? What are its hours of operation?
+	- When will it be open?
+	- How long the cafe will be open
+	'''markdown
+	The establishment is functional from Monday to Sunday.Timings (11:00 AM - 11:00 PM)
+	'''
+
+### ? Does the establishment provide home delivery service?
+	- Is there a delivery service
+	- Do you guys deliver the food?
+	'''markdown
+	Yes, you can avail home delivery service from the establishment. However, do confirm if the service is free or paid
+	'''
+
+### ? Thank you
+	- Bye
+	- Thanks
+	- Adios
+	- Ok
+	'''markdown
+	You're Welcome
+	''' 
