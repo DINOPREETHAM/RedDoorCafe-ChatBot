@@ -45,7 +45,7 @@ Step 2 : Create a knowledge base in QnA Maker
 ![rd2](https://user-images.githubusercontent.com/102014196/160558182-dc7c9e95-b1ea-4064-bbea-c41889a0468d.png)
 
 Step 3 : Create Web App Bot:
-![159109741-de750081-c59c-4b93-bfda-357e6e6ef282](https://user-images.githubusercontent.com/102014196/160558274-0905bf87-b19e-4715-a124-667dc2078afe.jpg)
+![rddd](https://user-images.githubusercontent.com/102014196/160559499-0f55ae10-2617-4a03-bd28-6b27d01e3935.png)
 
 Step 4 : Create site in Google sites and publish it
 ![rdd](https://user-images.githubusercontent.com/102014196/160558793-afca3274-cc80-4a25-9435-98e28ffe297a.png)
